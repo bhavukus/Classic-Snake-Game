@@ -1,4 +1,4 @@
-# Snake Game
+# Classic Snake Game
 
 A classic and simple **Snake Game** implemented in Java using Swing and AWT libraries. The game allows the user to control the snake with arrow keys, grow by eating blue apples, and avoid collisions with the walls or its own body. The game incorporates real-time rendering and smooth gameplay mechanics, along with score tracking.
 
@@ -69,12 +69,12 @@ Follow these instructions to run the Snake Game on your local machine:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/snake-game.git
+    git clone https://github.com/bhavukus/Classic-Snake-Game.git
     ```
 
 2. **Navigate to the project directory**:
     ```bash
-    cd snake-game
+    cd Classic-Snake-Game
     ```
 
 3. **Compile the Java files**:
@@ -84,7 +84,7 @@ Follow these instructions to run the Snake Game on your local machine:
 
 4. **Run the game**:
     ```bash
-    java SnakeGame
+    java ClassicSnakeGame
     ```
 
 The game window will open, and you can start playing by using the arrow keys to control the snake.

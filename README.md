@@ -24,6 +24,9 @@ A classic and simple **Snake Game** implemented in Java using Swing and AWT libr
 This **Snake Game** project is a Java-based desktop application that recreates the classic Snake game. The game mechanics are simple: control a snake, eat food (blue apples), and avoid crashing into your own body or the game boundaries. With each apple eaten, the snake grows longer, making it more difficult to navigate. The game runs continuously until the snake collides with either its own body or the game walls.
 
 The project demonstrates the application of object-oriented programming principles, real-time game development using the Java Swing framework, and basic data structures for handling the snake’s movement and collisions.
+![Screenshot 2024-04-15 113907](https://github.com/user-attachments/assets/333ec8d2-446c-4d69-81a5-5a27accefca5)
+![Screenshot 2024-04-15 113646](https://github.com/user-attachments/assets/b9dd9925-d731-4bb6-956d-5b0824f6eb84)
+
 
 ---
 
